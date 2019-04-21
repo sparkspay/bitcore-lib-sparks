@@ -1,6 +1,6 @@
 {
   "name": "bitcore-lib-sparks",
-  "version": "0.17.0",
+  "version": "0.17.1",
   "description": "A pure and powerful JavaScript Sparks library.",
   "author": "Sparks Core Group, Inc. <dev@sparks.org>",
   "main": "index.js",
